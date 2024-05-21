@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/minseok/study/vivado/0521_SV_Adder/0521_SV_Adder.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+/home/minseok/study/vivado/0521_SV_Adder/0521_SV_Adder.srcs/sim_1/new/tb_adder.sv,1716301668,systemVerilog,,,,$unit_tb_adder_sv;adder_intf;tb_adder,,uvm,,,,,,
+/home/minseok/study/vivado/0521_SV_Adder/0521_SV_Adder.srcs/sources_1/new/adder.v,1716271319,verilog,,,,adder,,uvm,,,,,,
